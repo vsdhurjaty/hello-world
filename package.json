@@ -1,0 +1,23 @@
+{
+  "name": "openshift-nodejs-demo",
+  "version": "1.0.0",
+  "description": "Demo Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashsaurabh/openshift-nodejs-app.git"
+  },
+  "author": "Progressive Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dashsaurabh/openshift-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/dashsaurabh/openshift-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
